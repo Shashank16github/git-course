@@ -1,0 +1,4 @@
+this is the second code file 
+this aim is to pratice git
+lets find difference between v1.0 and v1.1
+
