@@ -1,0 +1,2 @@
+this is the second feature in the branch 2 
+second feature added 
